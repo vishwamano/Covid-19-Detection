@@ -7,5 +7,3 @@ Problem type :- Supervised
     Libraries used :- Keras, Numpy, Seaborn, Matplotlib, os
     Inspired by :- https://www.youtube.com/watch?v=nHQDDAAzIsI
 
-Normal X-ray data can be extracted through kaggle link using OS module. Don't forget to stratify the data as it will help to get better results.
-Detailed explanation for model can be found at :- https://medium.com/@dakshtrehan/detecting-covid-19-using-deep-learning-262956b6f981
